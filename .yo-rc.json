@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "12 Factor is 12 Steps for Application Development",
+    "packageVersion": "0.0.0",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "aetherical",
+    "githubRepository": "12-Factor-is-12-Steps-for-Application-Development"
+  }
+}

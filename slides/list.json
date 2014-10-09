@@ -1,0 +1,16 @@
+[
+    "index.md",
+    "12-factor-is-12-steps-for-application-development.md",
+    "i-codebase.md",
+    "ii-dependencies.md",
+    "iii-config.md",
+    "iv-backing-services.md",
+    "v-build-release-run.md",
+    "vi-processes.md",
+    "vii-port-binding.md",
+    "viii-concurrency.md",
+    "ix-disposability.md",
+    "x-devprod-parity.md",
+    "xi-logs.md",
+    "xii-admin-processes.md"
+]

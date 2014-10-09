@@ -1,0 +1,7 @@
+{
+  "name": "12-factor-is-12-steps-for-application-development",
+  "version": "0.0.0",
+  "dependencies": {
+    "reveal.js": "~2.6.1"
+  }
+}
