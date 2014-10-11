@@ -1,6 +1,11 @@
 ##  X. Dev/prod parity
+----
 
-This is a new Markdown slide
+### Keep
+#### Development <!-- .element: class="fragment green" -->
+#### Staging <!-- .element: class="fragment yellow" -->
+#### Production <!-- .element: class="fragment red" -->
+### As Similar as Possible
 
 note:
     Put your speaker notes here.

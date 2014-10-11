@@ -1,6 +1,9 @@
 ##  II. Dependencies
+----
 
-This is a new Markdown slide
+### Explicitly Declare <!-- .element: class="fragment" -->
+##### and <!-- .element: class="fragment" -->
+### Isolate Dependencies <!-- .element: class="fragment" -->
 
 note:
     Put your speaker notes here.

@@ -13,15 +13,15 @@
 
         <link rel="stylesheet" href="bower_components/reveal.js/css/reveal.min.css">
     
-        <link rel="stylesheet" href="bower_components/reveal.js/css/theme/default.css" id="theme">
-    
+        <link rel="stylesheet" href="bower_components/reveal.js/css/theme/simple.css" id="theme">
+	<link rel="stylesheet" href="css/extensions.css" />
 
         <!-- For syntax highlighting -->
         <link rel="stylesheet" href="bower_components/reveal.js/lib/css/zenburn.css" id="highlight-theme">
 
         <!-- If the query includes 'print-pdf', use the PDF print sheet -->
         <script>
-          if( window.location.search.match( /print-pdf/gi ) ) {
+         if( window.location.search.match( /print-pdf/gi ) ) {
             var link = document.createElement( 'link' );
                 link.rel = 'stylesheet';
                 link.type = 'text/css';
@@ -68,8 +68,9 @@
                 progress: true,
                 history: true,
                 center: true,
+	        parallaxBackgroundImage: "images/stairs.jpg",
 
-                theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+                theme: Reveal.getQueryHash().eme, // available themes are in /css/theme
                 transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
 
                 // Optional libraries used to extend on reveal.js

@@ -1,6 +1,8 @@
 ##  V. Build, release, run
+----
 
-This is a new Markdown slide
+### Strictly Separate <!-- .element: class="fragment" -->
+### Build and Run Stages <!-- .element: class="fragment" -->
 
 note:
     Put your speaker notes here.

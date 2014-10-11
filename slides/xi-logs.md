@@ -1,6 +1,7 @@
 ##  XI. Logs
+----
 
-This is a new Markdown slide
+### Treat Logs as Event Streams
 
 note:
     Put your speaker notes here.

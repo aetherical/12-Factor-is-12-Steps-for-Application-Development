@@ -1,10 +1,9 @@
 
-# 12 Factor is 12 Steps for Application Development
+# 12 Factor is 12 Steps
+# for Application Development
 
-From the terminal, pop in:
+### Columbus Code Camp 2014
 
-  ```yo reveal:slide "Slide Title"```
+#### Matt Williams
 
-Available options:
-
- ```--markdown --attributes --notes```
+[![Nimblestratus](images/nimblestratus_smaller.png)](http://nimblestrat.us)
