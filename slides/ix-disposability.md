@@ -6,5 +6,7 @@
 ### Graceful Shutdown <!-- .element: class="fragment" -->
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    If it's cheap to build, then no reason to try to fix/heal.
+	Kill it and start over!
+	No pets!
+    

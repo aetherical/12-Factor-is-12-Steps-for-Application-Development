@@ -3,6 +3,13 @@
 
 ### Treat Logs as Event Streams
 
+* Write to `stdout`.
+* Environment captures & sends to collector.
+
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    Stream to central location or a bus.
+
+	Store nothing.
+
+	Don't route.  Write to stdout.
+    
