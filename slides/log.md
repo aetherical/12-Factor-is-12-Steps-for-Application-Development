@@ -1,7 +1,6 @@
-##  XI. Logs
-----
+##  Log!
 
-### Treat Logs as Event Streams
+![Log, by Blammo!](images/LogFromBlammo.jpg)
 
 note:
     Put your speaker notes here.

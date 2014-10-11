@@ -1,6 +1,9 @@
 ##  IX. Disposability
+----
 
-This is a new Markdown slide
+### Maximize Robustness <!-- .element: class="fragment" -->
+### Fast Startup <!-- .element: class="fragment" -->
+### Graceful Shutdown <!-- .element: class="fragment" -->
 
 note:
     Put your speaker notes here.

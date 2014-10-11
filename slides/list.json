@@ -1,6 +1,10 @@
 [
     "index.md",
-    "12-factor-is-12-steps-for-application-development.md",
+    "tldr.md",
+    "why.md",
+    "filters.md",
+    "goals.md",
+    "strengths.md",
     "i-codebase.md",
     "ii-dependencies.md",
     "iii-config.md",
@@ -9,8 +13,15 @@
     "vi-processes.md",
     "vii-port-binding.md",
     "viii-concurrency.md",
+    "babel.html",
     "ix-disposability.md",
+    "pets.html",
     "x-devprod-parity.md",
     "xi-logs.md",
-    "xii-admin-processes.md"
+    "log.md",
+    "xii-admin-processes.md",
+    "questions.md",
+    "resources.md",
+    "attributions.md",
+    "thank-you.md"
 ]

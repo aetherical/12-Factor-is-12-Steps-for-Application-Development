@@ -1,7 +1,6 @@
-##  XI. Logs
-----
+##  Attributions
 
-### Treat Logs as Event Streams
+
 
 note:
     Put your speaker notes here.
