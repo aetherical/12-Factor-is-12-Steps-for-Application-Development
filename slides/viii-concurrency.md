@@ -3,7 +3,7 @@
 
 ### Scale Out <!-- .element: class="fragment" -->
 ##### -via- <!-- .element: class="fragment" -->
-### Process Model
+### Process Model <!-- .element: class="fragment" -->
 
 note:
     Put your speaker notes here.
