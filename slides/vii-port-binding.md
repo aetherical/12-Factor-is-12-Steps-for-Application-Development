@@ -6,5 +6,9 @@
 ### Port Binding <!-- .element: class="fragment" -->
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    Reason for port binding -- you don't know where a service is running.
+
+	Nor do you care.
+
+	As long as you can locate it, that's what matters
+    

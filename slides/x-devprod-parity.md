@@ -8,5 +8,7 @@
 ### As Similar as Possible
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    Make the time gap small!
+
+	12 Factor applies to infrastructure, too!
+    

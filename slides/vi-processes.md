@@ -7,5 +7,8 @@
 ### Stateless Processes <!-- .element: class="fragment" -->
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    Share Nothing! Persistant data is stored in backing service (database)
+
+	Never assume anything cached in memory will be available in future
+	
+    

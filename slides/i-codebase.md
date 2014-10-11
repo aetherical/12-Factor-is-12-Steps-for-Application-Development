@@ -7,6 +7,9 @@
 
 ### Many Deploys <!-- .element: class="fragment" -->
 
+* Each Component is an Application. <!-- .element: class="fragment" -->
+* Each Repo has One (1) Application. <!-- .element: class="fragment" -->
+
 note:
 	I think it pretty much goes without saying any more that every
 	project needs to have a codebase. In that sense, there really
